@@ -24,3 +24,4 @@ Thumbs.db
 # Railway
 *.sqlite3
 
+.env 
